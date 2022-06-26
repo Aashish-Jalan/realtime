@@ -1,0 +1,39 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+body {
+    background: rgb(255,0,0);
+    background: linear-gradient(41deg, rgba(255,0,0,1) 0%, rgba(223,217,20,1) 15%, rgba(221,219,19,1) 31%, rgba(185,249,0,1) 48%, rgba(69,252,102,1) 69%);
+}
+
+
+.copy_right_footer
+{
+    font-family: 'Roboto', sans-serif;
+    position:fixed ;
+    color: #717172;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(100, 99, 99);
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+    
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px #FF69B4;
+}
